@@ -7,6 +7,7 @@ A critical crisis unfolds on 12 May 2045, aboard the Synaptech Neuro-Lab station
 Corticon is a digital virus capable of disrupting the brain’s natural balance between excitatory and inhibitory neurons. If it is not stopped in time, Dr. Z will lose control over his motor systems, cognitive abilities, and decision-making, leading to complete neural shutdown. You are trained to simulate and understand biological neural circuits to isolate and combat neural threats. Your mission is to model a simplified cortical microcircuit, analyze how Corticon has disturbed its natural dynamics, and simulate potential rescue interventions in real-time.
 
 Research paper By Heiko J. Luhmann mainly aims on:
+
 1)Neocortical Structure and Cell Types
 2)Connectivity and Microcircuits
 3)Dynamics of Synaptic and Network Activity
