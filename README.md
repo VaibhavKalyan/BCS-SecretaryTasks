@@ -1,8 +1,7 @@
 # BCS-SecretaryTasks
 This Repository contains 2 folders mainly aiming to solve BCS Secretary Task(IITK 2025)
 
-1)
-First one include 1 Research Paper + Explanation + Jupyter noteboook pivoted around a ps which in short is:
+1)First one include 1 Research Paper + Explanation + Jupyter noteboook pivoted around a ps which in short is:
 
 A critical crisis unfolds on 12 May 2045, aboard the Synaptech Neuro-Lab stationed in orbit at Aegis-9. Dr. Z, a renowned cyber-neurologist at the forefront of brain-computer interface research, has fallen victim to a rogue neural parasite known as Corticon, which is hijacking his cortical microcircuits.
 Corticon is a digital virus capable of disrupting the brain’s natural balance between excitatory and inhibitory neurons. If it is not stopped in time, Dr. Z will lose control over his motor systems, cognitive abilities, and decision-making, leading to complete neural shutdown. You are trained to simulate and understand biological neural circuits to isolate and combat neural threats. Your mission is to model a simplified cortical microcircuit, analyze how Corticon has disturbed its natural dynamics, and simulate potential rescue interventions in real-time.
