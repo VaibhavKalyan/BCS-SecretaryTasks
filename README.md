@@ -21,3 +21,7 @@ On the other side jupyter notebook include code for:
 3)STDP curve showing how synaptic weight changes based on the timing difference between pre- and postsynaptic spikes.
 4)Simulating and Plotting a Spiking Neural Network of Izhikevich neurons with spike-timing-dependent plasticity (STDP) including rastor plots and membrane potentials.
 5)Simulating how a Spiking Neural Network reacts to a Corticon-like disturbance which includes weakened inhibition, unbalanced excitation, and noisy external inputs using a Izhikevich neurons with STDP plasticity.
+
+
+
+VAIBHAV KALYAN(241125)
