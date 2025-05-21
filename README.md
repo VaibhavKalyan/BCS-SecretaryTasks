@@ -36,3 +36,7 @@ On the other side jupyter notebook include code for:
 | `rand()`         | Returns random values between 0 and 1 — Brian2 version, vectorized for use in equations.                             |
 
 VAIBHAV KALYAN(241125)
+
+
+2) Design Task
+   Containing Poster on the topic-"Anchoring Bias"
