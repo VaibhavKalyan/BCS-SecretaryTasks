@@ -23,5 +23,16 @@ On the other side jupyter notebook include code for:
 5)Simulating how a Spiking Neural Network reacts to a Corticon-like disturbance which includes weakened inhibition, unbalanced excitation, and noisy external inputs using a Izhikevich neurons with STDP plasticity.
 
 
+| Brian2 Component | Purpose                                                                                                              |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------- |
+| `start_scope()`  | Resets the Brian2 simulation environment to avoid overlap of previous variables/simulations.
+| `NeuronGroup()`  | Defines a group of neurons and how they behave using differential equations (Izhikevich model here).                 |
+| `Synapses()`     | Creates synaptic connections between neurons, including plasticity rules like STDP.                                  |
+| `SpikeMonitor()` | Monitors and records when each neuron spikes (i.e., reaches threshold).                                              |
+| `StateMonitor()` | Tracks internal state variables (like membrane potential `v`) of specified neurons over time.                        |
+| `run(duration)`  | Runs the simulation for the specified time (`1 second` in my case).                                                |
+| `clip()`         | A Brian2 function to restrict a variable (like synaptic weights) within a defined range.                             |
+| `ms`             | Time unit (millisecond) from Brian2. Used to make time values biologically meaningful.                               |
+| `rand()`         | Returns random values between 0 and 1 — Brian2 version, vectorized for use in equations.                             |
 
 VAIBHAV KALYAN(241125)
