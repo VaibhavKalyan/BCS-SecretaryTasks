@@ -38,5 +38,6 @@ On the other side jupyter notebook include code for:
 VAIBHAV KALYAN(241125)
 
 
-2) Design Task
-   Containing Poster on the topic-"Anchoring Bias"
+2) Design Task( Made Using Canva)
+Containing Poster on the topic-"Anchoring Bias"
+Anchoring bias is a sneaky little cognitive glitch where your brain clings to the first piece of information it gets—the “anchor”—and then uses it as a reference point for all future judgments, even when it’s completely irrelevant.
